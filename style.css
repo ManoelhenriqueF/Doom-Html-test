@@ -9,7 +9,6 @@ body{
     position: relative;
 }
 .Gun{
-    left: 250px;
     position: absolute;
     bottom: 0%;
 }
